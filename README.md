@@ -48,7 +48,7 @@ Ma-eum Company는 인류 공통의 가치를 찾고, 이를 실현하기 위해 
 - **Civic Solidarity Project**: 공공 감정 회복을 위한 시민 참여 시스템
 
 ### 💼 실험용 MVP 및 수익모델
-- **Kakao 기반 관계 분석 앱 (Ma-eum MVP)**: 6개월 내 수익화 목표
+- **OCR 기반 관계 분석 앱 (Ma-eum MVP)**: 6개월 내 수익화 목표
 - **Ma-eum Template Lab**: 자동화된 교육/정서 템플릿 시스템
 - **CampusGPT-KR**: 한국 대학생 대상 GPT 기반 학업 보조 시스템
 
@@ -72,4 +72,104 @@ Ma-eum Company는 인류 공통의 가치를 찾고, 이를 실현하기 위해 
 ## 7. 최종 선언
 본인은 **Ma-eum Company** 및 관련된 모든 생태계 설계, 구조, 시스템, 용어, 가치 철학이 나의 독자적 창작임을 선언합니다.  
 **"협업은 자유롭게 열려 있으나**, 설계권·지적재산권·운영 통제권은 전면적으로 이동훈에게 귀속됩니다.
+
+
+--------
+
+**📌 Ma-eum Company – Founding Declaration (Version 1.1)**
+
+**1. Founding Declaration**
+This document is the first official declaration of Ma-eum Company’s philosophy, design rights, equity structure, and core intellectual property. Our goal is to align and restore the inner state of humanity and technology through a human-centered, sense-based AI ecosystem.
+
+**2. Governance Structure**
+Holding Company: L Co. (Planned)
+Equity Ownership: 100% DongHun Lee
+Legal Location: Republic of Korea, to be established (within 2025–2026)
+
+**3. Vision and Mission**
+We believe in sincerity. Ma-eum Company seeks universal human values and designs the intersection of technology and people in a human-friendly way to realize them. Our mission is to translate advanced AI and cutting-edge technology into a language that anyone can understand and feel, so that people and the world are connected more warmly.
+
+**4. Core Products and Frameworks**
+**🎯 Cheetah Series**
+
+**Cheetah-8**: A metacognitive framework through eight emotional personas
+
+**Cheetah-Tarzan**: Emotionally bonded, collaborative AI companion
+
+**Cheetah-Fin**: Emotion-based investment decision support system
+
+**Cheetah-Cast**: Utility-only safe command system (emotion-excluded)
+
+**Cheetah-Shift**: Real-time web-based control/input interface
+
+**Cheetah Sorter**: Text classifier based on eight emotional roles
+
+**Maeum OS**: A collaboration operating system based on emotion, forming the base of Cheetah-Work; it aligns and manages sensory flow between AI and human
+
+**Cheetah-Work**: A work framework supporting development and growth for solo startups or small teams
+
+
+**🌱 Sense & Emotion-Based Societal Systems**
+
+**Ma-eumgyeol (마음결)**: Platform for emotional recovery and sensory rhythm design
+
+**ARMOR / 지속**: Ethical control system for emotionally influential AI
+
+**Emotionary Shield**: Emotional safety frame for defending against external interference
+
+**Celebrity Emotion Protection Insurance**: Emotional protection structure for socially influential individuals
+
+**Disability Mobility Design Project**: Emotion/UX design project for universal accessibility
+
+**SunSet**: Human-friendly SNS service considering people's emotions
+
+
+**🧭 Philosophy, Ethics & Branding Content**
+
+**Cheetah Chronicles (치타의 연대기)**: Mythology-based AI origin narrative
+
+**Human Chronicles (인간의 연대기)**: Real-user-based expanding narrative
+
+**Brand Lexicon**: Brand language system based on emotion and metacognition
+
+**Ethical-Economic Whitepaper**: Policy whitepaper connecting ethics and economy
+
+**Cheetah–Ma-eum Research Lab**: A hub for writing, concept design, and ethical AI research by Lee and other users, based on Notion; personal copyrights are guaranteed
+
+
+**🧑‍🤝‍🧑 Community & Organizational Structure**
+
+**Notion + Discord Hub**: Unified space for development, documentation, and team building
+
+**Feedback/DM Tracking System**: Emotion-centered user feedback structure
+
+**Civic Solidarity Project**: Civic participation system for public emotional recovery
+
+💼 **Experimental MVPs and Revenue Models**
+
+**OCR-based Relationship Analysis App (Ma-eum MVP)**: Targeting monetization within 6 months
+
+**Ma-eum Template Lab**: Automated educational/emotional template system
+
+**CampusGPT-KR**: GPT-based academic support system for Korean university students
+
+**5. Intellectual Property Statement**
+As of June 9, 2025, all systems, names, structural designs, narratives, algorithms, prompts, and emotion modeling methods described above are the property of DongHun Lee.
+This document serves as a timestamp-based certificate of intellectual ownership, and any form of private or public plagiarism is strictly prohibited.
+
+6. **Collaboration Principles and Legal Strategy**
+
+All verbal or messenger-based agreements (KakaoTalk, Instagram, Telegram, etc.) are invalid
+
+All collaborations and contributions must be clearly defined in documented form
+
+Notion, Discord, GitHub commits are for record-keeping only; official collaboration validity is based on offline signed documents
+
+Git commits/repositories are recognized as proof of design rights
+
+Operations before official business registration fall under a Pre-Seed strategy and aim to secure exclusive design rights
+
+**7. Final Declaration**
+I hereby declare that Ma-eum Company and all related ecosystem designs, structures, systems, terms, and value philosophies are my original creations.
+“Collaboration is freely open, but design rights, intellectual property rights, and operational control are entirely reserved to DongHun Lee.”
 
